@@ -1,0 +1,44 @@
+# Pemrograman-Web
+<!DOCTYPE html>
+<html>
+<head>
+		<title>Cupang Indonesia</title>
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+<body>
+	<div class="wrap">
+		<div class="header">			
+			<h1><b>Betta Indonesia</b></h1>
+		</div>
+		<div class="menu">
+			<ul>
+				<li><a href="index.html">Home</a></li>
+				<li><a href="jenis.html">Jenis - Jenis</a></li>
+				<li><a href="budidaya.html">Cara Budidaya</a></li>
+				<li><a href="galeri.html">Galeri</a></li>		
+				<li><a href="Contact.html">Contact</a></li>	
+			<div class="budidaya"></div>
+			<h2>Cara Sederhana Membudidayakan Ikan Cupang</h2>
+			<p>jadi pertama kali anda membeli sebuah ikan cupang yang sudah siap usia nya untuk dijadikan media berternak/membudidayakan pada ikan tersebut, untuk melakukan pencarian ikan yang sudah siap dijadikan bahan budidaya terdapat di pasar ikan hias maupun dikomunitas pencinta Ikan Cupang, Soal harga cukup Relatif tergantung dari jenis dan usia nya namun untuk saat ini perkembangan pencinta ikan hias berjenis Ikan Cupang ini cukup di gemari oleh orang dewasa maupun anak-anak.</p>
+			<br/>
+			<h4>Pemilihan Usia untuk Masa Perkawinan</h4>
+			<p>untuk umur yang sudah siap untuk di kawinkan kisaran umur 3 bulan hingga 8 bulan tergantung dari karakter ikan cupangnya, dengan fisik yang begitu cukup baik dan tidak cacat pada sirip ikan maupun ekor nya, jika adanya cacat atau minus dalam kondisi fisik ikan tersebut pada salah satu gen nya maka ikan tidak mau kawin sebab kondisi fisik nya tidak begitu sehat pada umumnya, Alangkah baik nya mending pilih jenis ikan yang sifat fisik nya normal dan yang terpenting cukup di gemari banyak orang, supaya harga jual dan daya tarik pembeli akan meningkat dan ingin memilikinya.</p>
+			<br/>
+			<h4>Ciri-Ciri kondisi Ikan Cupang yang baik untuk di budidaya</h4>
+			<br/>
+			<h5>Ikan Cupang Betina :</h5>
+			<p>- Ikan yang lincah</p>
+			<p>- Sirip Pendek</p>
+			<p>- Bentuk badan membulat</p>
+			<p>- Berumur sekitar 3-4 bulan</p>
+			<br/>
+			<h5>Ikan Cupang Jantan:</h5>
+			<p>- Gerakkan lincah & agresif</p>
+			<p>- Sirip anjang</p>
+			<p>- Bentuk badan panjang</p>
+			<p>- Berumur sekitar 4-8 bulan</p>
+			</ul>
+		</div>
+</div>
+</body>
+</html>
